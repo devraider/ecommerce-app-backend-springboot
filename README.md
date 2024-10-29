@@ -3,6 +3,8 @@
 
 Backend service for the **Ecommerce App**, built with **Spring Boot**. This backend is designed to manage the core functionalities of an online ecommerce platform, including user authentication, product management, order processing, and payment integration.
 
+> [!note]
+> This project using as frontend [Ecommerce App - Angular](https://github.com/devraider/ecommerce-app-frontend-angular)
 ## Features
 
 - **User Management**: Sign up, login, and role-based access control for customers and admins.
