@@ -27,6 +27,7 @@ Backend service for the **Ecommerce App**, built with **Spring Boot**. This back
 - **Java 17+**
 - **MySQL** installed and running
 - **Maven** for dependency management
+- **Okta** account and project created (refer to [Okta.com](https://help.okta.com/asa/en-us/content/topics/adv_server_access/docs/setup/create-a-project.htm)) 
 
 ### Installation and Setup
 
